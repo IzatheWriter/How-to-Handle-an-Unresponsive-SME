@@ -13,3 +13,6 @@ Experts in what? You might ask. Their expertise will vary from UX design, custom
 
 The problem arises when those just as hard-working people as you are difficult to access or not that eager to devote their precious worktime to speak with you.
 Hence, in this article your will find a few quick tips to help you with an unresponsive SME. 
+
+
+![an image showing two people shaking hands in agreement](<shaking hands.jpg>)
