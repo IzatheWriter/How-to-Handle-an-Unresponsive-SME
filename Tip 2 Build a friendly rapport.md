@@ -1,5 +1,5 @@
 ---
-title: Tip 2 
+title: Tip 2 Build a friendly rapport 
 layout: default
 nav_order: 3
 ---
