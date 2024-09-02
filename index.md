@@ -12,17 +12,17 @@ A technical writer has a lot on their plate when it comes to collating data for 
 Experts in what? You might ask. Their expertise will vary from UX design, customer support, development, engineering, etc. Your understanding of the product or the process you’re writing about will depend heavily on their knowledge and explanation of the matter. 
 
 The problem arises when those just as hard-working people as you are difficult to access or not that eager to devote their precious worktime to speak with you.
-Hence, in this article your will find a few quick tips to help you with an unresponsive SME. 
+Hence, in this article you'll find a few quick tips to help you with an unresponsive SME. 
 
 **Glossary:**
 
 **A technical writer** 
 
-A person whose job is to write technical documentation using simple language so that the target reader, a non-expert in the topic, can understand a complex technical issue. They will do research, collate data and information to create online and/or printed documentation as well as audio-visual guides or instructions. Other types of their output might be sotftware test plans, online training material, online help guides, project plans, etc.
+A person whose job is to write technical documentation using simple language so that the target reader, a non-expert in the topic, can understand a complex technical issue. They'll do research, collate data and information to create online and/or printed documentation as well as audio-visual guides or instructions. Other types of their output might be sotftware test plans, online training material, online help guides, project plans, etc.
 
 
 **An SME** 
 
-SME stands for Subject Matter Expert. It's a person who instructs a technical writer in the topic they are writing about. Their expertise will vary from UX design, customer support, development, engineering, etc. all of which, though, refer to technical issues mostly.
+SME stands for Subject Matter Expert. It's a person who instructs a technical writer in the topic they're writing about. Their expertise will vary from UX design, customer support, development, engineering, etc. all of which, though, refer to technical issues mostly.
 
 ![an image showing two people shaking hands in agreement](<shaking hands.jpg>)
