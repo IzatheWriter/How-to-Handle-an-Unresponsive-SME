@@ -6,7 +6,7 @@ nav_order: 7
 
 <h1>Sources</h1>
 
-The following is a list of sources consulted for this guide:
+The following is a list of sources consulted for this article:
 
 1. [Film: Simon Sinek on Empathy:](https://www.youtube.com/watch?v=3DH2os5VYjE&themeRefresh=1) 
 
