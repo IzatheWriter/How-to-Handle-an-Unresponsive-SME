@@ -14,5 +14,15 @@ Experts in what? You might ask. Their expertise will vary from UX design, custom
 The problem arises when those just as hard-working people as you are difficult to access or not that eager to devote their precious worktime to speak with you.
 Hence, in this article your will find a few quick tips to help you with an unresponsive SME. 
 
+**Glossary:**
+
+**a technical writer** 
+
+A person whose job is to write technical documentation using simple language so that the target reader, a non-expert in the topic, can understand a complex technical issue. They will do research, collate data and information to create online and/or printed documentation as well as audio-visual guides or instructions. Other types of their output might be sotftware test plans, online training manterial, online help guides, project plans, etc.
+
+
+**An SME** 
+
+SME stands for Subject Matter Expert. It's a person who instructs a technical writer in the topic they are writing about. Their expertise will vary from UX design, customer support, development, engineering, etc. all of which, though, refer to technical isssues mostly.
 
 ![an image showing two people shaking hands in agreement](<shaking hands.jpg>)
