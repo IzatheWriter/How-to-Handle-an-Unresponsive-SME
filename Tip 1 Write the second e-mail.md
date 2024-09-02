@@ -12,4 +12,4 @@ Write the second message only make it a little different. Remind them politely w
 If the e-mail way doesn’t work, don’t hesitate to pay a visit in person in their office. Remember, though, to be friendly and kind when you inquire about the meeting. 
 
 
-![an image showing an inbox folder with unread e-mails](<email imagejpg-1.jpg>)
+![an image showing an inbox folder with unread e-mails](<email imageSMALL-1.jpg>)
